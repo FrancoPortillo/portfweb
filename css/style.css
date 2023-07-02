@@ -8,6 +8,9 @@ body {
   font-family: Verdana;
 }
 
+.navbar-dark .navbar-nav .nav-link {
+  color: rgb(255, 255, 255);
+}
 /*  Parte Principal */
 
 #PartePrincipal {
@@ -26,6 +29,10 @@ body {
 }
 
 /* Proyectos */
+.card {
+  margin: 0 auto;
+  margin-bottom: 10px;
+}
 
 /* Sobre Mi */
 .texto-info {
